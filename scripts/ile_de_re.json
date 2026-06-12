@@ -1,6 +1,6 @@
 {
   "game": {
-    "name": "Tour de l'île de Ré",
+    "name": "80 ans de Papilou à Royan",
     "version": "2026-05-29.1",
     "startAt": "2026-06-01T14:00:00+02:00",
     "defaultRadiusMeter": 50
@@ -29,11 +29,11 @@
     "- 17:00 – Clôture",
     "# Les groupes",
     "## Groupe 1",
-    "- Papi, Mamie, Oncle Jean",
+    "- Papi, Mamie, Tonton Jean",
     "## Groupe 2",
-    "- Papa, Maman, Tata Jeanne",
+    "- Papa, Maman, Tatanne",
     "## Groupe 3",
-    "- Les enfants"
+    "- Les 12 cousins"
   ],
   "questions": [
     {
