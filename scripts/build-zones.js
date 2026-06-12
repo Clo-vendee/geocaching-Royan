@@ -1486,7 +1486,7 @@ function buildPrintableInfographicHtml(config, overview, cycleTracks, startPoint
     "      marker.bindTooltip('Secteur approximatif - ' + cluster.count + ' POI', { direction: 'top', sticky: true });\n" +
     "    });\n" +
     "    if (!overview.bounds) {\n" +
-    "      map.setView([46.2, -1.4], 11);\n" +
+    "      map.setView([45.6, -1.0], 11);\n" +
     "    } else {\n" +
     "      const sw = overview.bounds.southWest;\n" +
     "      const ne = overview.bounds.northEast;\n" +
